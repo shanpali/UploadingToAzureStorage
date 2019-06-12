@@ -6,3 +6,5 @@
 
 
 This sample utility will help to upload data (text or file) to azure cloud storage.
+
+Download util will help download data from Azure container
